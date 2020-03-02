@@ -10,4 +10,5 @@ Devkit/ 外设类应用/ 功耗/ 射频测试/ AT命令/ 透传说明/  Flash管
 https://github.com/Opulinks-Tech/OPL1000A2-SDK  
 
 ## Reference
-Ali/ AWS/ Coolkit
+SDK示例工程演示
+云端的物联网产品参考设计
