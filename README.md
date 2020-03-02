@@ -11,6 +11,6 @@ Devkit/ 外设类应用/ 功耗/ 射频测试/ AT命令/ 透传/  Flash管理/ �
 :point_right: [更詳細分類](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/wiki/Documents)  
 
 ## Reference
-- SDK示例工程演示  
-- 连接云端的物联网产品参考设计  
+SDK示例工程演示  
+连接云端的物联网产品参考设计  
  :point_right: [更詳細分類](https://github.com/Opulinks-Tech/OpulinksTech-WIKI/wiki/reference_demo)
